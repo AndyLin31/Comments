@@ -1,2 +1,2 @@
-# MCSR-Comments
-Database for MCSR resource site comments
+# Comments
+Database for resource site comments
